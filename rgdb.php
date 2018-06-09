@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: rgdb
- * Plugin URI: http://tele.gedde.dk
+ * Plugin URI: URI
  * Description: RGDB
  * Version: 1.0.0
- * Author: René Gedde
+ * Author: Ray Goat
  * Author URI: 
  * License: GPL2
  */
